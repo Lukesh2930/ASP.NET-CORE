@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7bcdce8-2371-42f3-a474-1b2421f8bbbe": {
+      "ProjectGuid": "a7bcdce8-2371-42f3-a474-1b2421f8bbbe",
+      "DisplayName": "Asp_core_practice",
+      "ColorIndex": 0
+    },
+    "98fe9117-81cc-45fc-907b-5e4d1a4c220b": {
+      "ProjectGuid": "98fe9117-81cc-45fc-907b-5e4d1a4c220b",
+      "DisplayName": "Project",
+      "ColorIndex": 1
+    },
+    "36233397-1f2c-43fd-a61d-33d32cc81c82": {
+      "ProjectGuid": "36233397-1f2c-43fd-a61d-33d32cc81c82",
+      "DisplayName": "Project1",
+      "ColorIndex": 2
+    },
+    "85fa1db2-fe63-4802-bf76-482f7ab397b0": {
+      "ProjectGuid": "85fa1db2-fe63-4802-bf76-482f7ab397b0",
+      "DisplayName": "Project",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
